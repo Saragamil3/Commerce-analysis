@@ -1,5 +1,5 @@
 Executive summary :
-   We Used commerce company`s data of last three years to do some analysis on it to extract insights and study ways to enhance our service
+   We Used commerce company's data of last three years to do some analysis on it to extract insights and study ways to enhance our service
 
 Analysis scope :
 -Customers loyalty
@@ -8,7 +8,7 @@ Analysis scope :
 -Orders and shipping  
   
 Methodology:
-We made analysis using Excel 
+ analysis using Excel 
 -Power Query to getting , cleaning and filtering the data 
 -Power Pivot to modeling and calculations Using Dax 
 -Pivot Table to Summarize and analyze data to see patterns and trends 
@@ -16,10 +16,11 @@ We made analysis using Excel
 
 Data Overview:
 The data consists of four table are Orders , People , Return, Shipping Cost 
-Order table consists of 9,995 Rows and after filtering became  7777 
+Order table consists of 9,995 Rows, after filtering became  7777 rows .  
 Data cleaning operations : 
 - handled the columns of Order Date and Ship Date
 -Split Location column to Country and city 
 -Check if there any missing value or duplicated data
-- filtering errors and incorrect data and change data types
+- filtering errors ,incorrect data and change data types
+  
   
