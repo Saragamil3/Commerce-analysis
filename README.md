@@ -47,4 +47,9 @@ Data cleaning operations.
 - What is total returned orders and quantity of them ?  and what are top products in terms of returned orders?
 - What is the most ship mode used in terms of orders volume?
 
-  
+## DASHBOARD
+ ![Customers](https://github.com/Saragamil3/Commerce-analysis/blob/main/Customers.png)
+ ![Customers](https://github.com/Saragamil3/Commerce-analysis/blob/main/Products.png)
+ ![Customers](https://github.com/Saragamil3/Commerce-analysis/blob/main/Sales.png)
+ ![Customers](https://github.com/Saragamil3/Commerce-analysis/blob/main/Orders.png)
+ 
